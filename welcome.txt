@@ -1,1 +1,2 @@
 Welcome to the version control
+This is a new line added in the feature1 branch.
