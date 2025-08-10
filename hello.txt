@@ -1,1 +1,3 @@
+<<<<<<< HEAD
 Goodbye World
+Hello World
